@@ -5,7 +5,8 @@ export default function Navbar() {
     <div id="navbar">
     <Link to="/">Home</Link>
     <Link to="/blue">Blue Page</Link>
-    <Link to="/red" >Red Page</Link>
+      <Link to="/red" >Red Page</Link>
+      <Link to="/green">Green Page</Link>
   </div>
   )
 }
